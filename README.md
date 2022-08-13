@@ -6,4 +6,5 @@
 [![DK77-sys GitHub stats](https://github-readme-stats.vercel.app/api?username=DK77-sys&show_icons=true&theme=radical)](https://github.com/DK77-sys)
 
 #### Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=DK77-sys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DK77-sys&theme=onedark)](https://github.com/DK77-sys)
+
