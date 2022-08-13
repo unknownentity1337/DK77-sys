@@ -1,5 +1,5 @@
 #### Top Languages
-[![Top Langs](https://github-readme-stats-dk77-sys.vercel.app/api/top-langs/?username=DK77-sys&layout=compact)](https://github.com/DK77-sys)
+[![Top Langs](https://github-readme-stats-dk77-sys.vercel.app/api/top-langs/?username=DK77-sys&layout=compact&count_private=true&include_all_commits=true)](https://github.com/DK77-sys)
 
 
 #### Github Stats
