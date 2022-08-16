@@ -17,3 +17,6 @@
 
 #### Streaks
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dk77-sys)](https://github.com/DK77-sys)
+
+#### Activity
+[![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DK77-sys&theme=dracula)](https://github.com/DK77-sys)
