@@ -1,9 +1,3 @@
-#### Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/api/top-langs?username=unknownentity1337&title=MultiLanguage,Repositories,Commits,Stars&column=4&margin-w=15&margin-h=15&theme=dracula)](https://github.com/unknownentity1337)
-
-[![trophy](https://hacked-github-stat-trophies.vercel.app/?username=unknownentity1337&title=AllSuperRank,LongTimeUser,AncientUser,Joined2020&column=4&margin-w=15&margin-h=15&theme=dracula)](https://github.com/unknownentity1337)
-
 #### Top Languages
 [![Top Langs](https://github-readme-stats-dk77-sys.vercel.app/api/top-langs/?username=unknownentity1337&layout=compact&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/unknownentity1337)
 
